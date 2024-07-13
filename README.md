@@ -18,4 +18,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimje&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimje&layout=compact)
 
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mark759)](https://solved.ac/dr8766)
+
 
